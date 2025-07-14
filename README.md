@@ -1,4 +1,4 @@
-# Rithik-Internship-YBI
+# Project
 import pandas as pd
 
 # Create an initial inventory as a DataFrame
